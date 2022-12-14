@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "Moataz",
+        "lastName": "Nabil",
+        "birthDay": "5",
+        "birthMonth": "November",
+        "birthYear": "1983",
+        "email": "moataz_nabil",
+        "password": "123456"
+    },
+    {
+        "firstName": "James",
+        "lastName": "bond",
+        "birthDay": "2",
+        "birthMonth": "July",
+        "birthYear": "1981",
+        "email": "james_bond",
+        "password": "6789433"
+    },
+    {
+        "firstName": "Bat",
+        "lastName": "Man",
+        "birthDay": "1",
+        "birthMonth": "June",
+        "birthYear": "1970",
+        "email": "bat_man",
+        "password": "333444"
+    }
+]
